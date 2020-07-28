@@ -18,6 +18,7 @@ public class mainClass {
 		//obj1.addAttendance(std);
 		attendance=obj1.addAttendance(std);
 		System.out.println(attendance);
+		System.out.println("*********");
 		
 		
 
